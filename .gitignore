@@ -1,0 +1,27 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Optional JavaScript environment
+node_modules/
+# Regenerable dense trajectories and spreadsheet previews
+results/*_profiles.npz
+previews/
+# Local scratch, editor and operating-system files
+tmp/
+temp/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+*.log
+.env
+.env.*

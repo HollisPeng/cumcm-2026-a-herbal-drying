@@ -1,0 +1,39 @@
+{
+  "result1_T": {
+    "rows": 1800,
+    "columns": 22,
+    "rounding_error_max": 5.000000000165983e-05,
+    "last_time_s": 1800.0
+  },
+  "result1_C": {
+    "rows": 1800,
+    "columns": 22,
+    "rounding_error_max": 4.999799999971799e-05,
+    "last_time_s": 1800.0
+  },
+  "result2_T": {
+    "rows": 10800,
+    "columns": 22,
+    "rounding_error_max": 5.000000000165983e-05,
+    "last_time_s": 10800.0
+  },
+  "result2_C": {
+    "rows": 10800,
+    "columns": 22,
+    "rounding_error_max": 4.999900000024482e-05,
+    "last_time_s": 10800.0
+  },
+  "result3_C": {
+    "rows": 3449,
+    "columns": 22,
+    "rounding_error_max": 4.999969999999743e-05,
+    "last_time_s": 206901.0
+  },
+  "result4_C": {
+    "rows": 3066,
+    "columns": 22,
+    "rounding_error_max": 4.999940000000036e-05,
+    "last_time_s": 183927.0
+  },
+  "analytic_heat_max_error_degC": 5.207245436622543e-06
+}
