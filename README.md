@@ -64,7 +64,8 @@ The existing records include grid comparisons at N = 400, 800, and 1,600, sensit
 │   ├── summary.json          Recorded results and numerical analyses
 │   └── verification.json     Original verification record
 ├── figures/                  Five existing paper figures
-└── docs/materials.md          Provenance and preservation notes
+└── docs/
+    └── materials.md          Provenance and preservation notes
 ```
 
 ## Data and output conventions

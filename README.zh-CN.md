@@ -64,7 +64,8 @@
 │   ├── summary.json          已有结果与数值分析
 │   └── verification.json     原始核验记录
 ├── figures/                  五幅已有论文图
-└── docs/materials.md          材料来源与保留说明
+└── docs/
+    └── materials.md          材料来源与保留说明
 ```
 
 ## 数据与输出约定
