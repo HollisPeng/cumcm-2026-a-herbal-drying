@@ -1,8 +1,8 @@
 # Herbal Drying — CUMCM 2026 Problem A
 
-[English](README.md) | [简体中文](README.zh-CN.md)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 A personal study of heat and moisture transport in cylindrical medicinal herbs, based on **Problem A of the 2026 China Undergraduate Mathematical Contest in Modeling (CUMCM)**. This repository brings together the completed paper, source code, supplied data, numerical results, and figures.
 

@@ -1,8 +1,8 @@
 # 药材烘干 — 2026 全国大学生数学建模竞赛 A 题
 
-[English](README.md) | [简体中文](README.zh-CN.md)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 本项目基于 **2026 年全国大学生数学建模竞赛（CUMCM）A 题**，研究圆柱形药材烘干过程中的传热与水分输运，汇集已完成的论文、源代码、题目数据、数值结果及图表。
 
