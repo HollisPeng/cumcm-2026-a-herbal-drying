@@ -1,5 +1,6 @@
 # 药材烘干 — 2026 全国大学生数学建模竞赛 A 题
 
+[![CI](https://github.com/HollisPeng/cumcm-2026-a-herbal-drying/actions/workflows/ci.yml/badge.svg)](https://github.com/HollisPeng/cumcm-2026-a-herbal-drying/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
@@ -101,6 +102,8 @@ python code/verify.py --files-only
 ```
 
 `--files-only` 对照已有 CSV 检查六张温度 / 含水率结果表及问题四半径表，涵盖尺寸、时间、空白位置和舍入误差。该选项不执行数值求解，也不覆盖原始核验记录。
+
+GitHub Actions 会在推送及 Pull Request 时，使用 Ubuntu 和 Python 3.12 自动执行上述已有文件核验，也可在 Actions 页面手动运行。CI 同时检查依赖一致性，并确认已跟踪文件未被修改；它不会重新求解数值模型或导出工作簿。
 
 ### 复现原有计算（可选）
 

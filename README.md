@@ -1,5 +1,6 @@
 # Herbal Drying — CUMCM 2026 Problem A
 
+[![CI](https://github.com/HollisPeng/cumcm-2026-a-herbal-drying/actions/workflows/ci.yml/badge.svg)](https://github.com/HollisPeng/cumcm-2026-a-herbal-drying/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
@@ -101,6 +102,8 @@ python code/verify.py --files-only
 ```
 
 `--files-only` checks all six temperature/moisture tables and the Q4 radius sheet against the saved CSVs, including dimensions, timestamps, blank positions, and rounding tolerance. It performs no numerical solve and does not overwrite the recorded verification file.
+
+GitHub Actions runs this saved-file check on Ubuntu with Python 3.12 for pushes and pull requests; it can also be started manually from the Actions tab. CI checks dependency consistency and verifies that tracked files remain unchanged. It does not rerun the numerical model or export workbooks.
 
 ### Reproduce the existing computation (optional)
 
