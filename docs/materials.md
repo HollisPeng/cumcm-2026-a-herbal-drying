@@ -4,6 +4,8 @@
 
 All project materials were supplied in the original workspace's `参考/` directory. No replacement data, new model, or new numerical result was introduced during repository preparation.
 
+Except for the supplied third-party materials under `problem/`, the repository's original content is licensed under the root [MIT License](../LICENSE). The problem statement, attachments, and result templates retain their original rights status and are not relicensed under MIT.
+
 | Supplied material | Repository location |
 | --- | --- |
 | `题目/A题/A题.pdf` | `problem/problem-A.pdf` |

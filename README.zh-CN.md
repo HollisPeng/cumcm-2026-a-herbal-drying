@@ -42,6 +42,7 @@
 .
 ├── README.md                 英文说明
 ├── README.zh-CN.md           中文说明
+├── LICENSE                   原创项目内容的 MIT 许可证
 ├── requirements.txt          Python 依赖
 ├── problem/
 │   ├── problem-A.pdf         完整原始题目

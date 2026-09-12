@@ -42,6 +42,7 @@ The existing records include grid comparisons at N = 400, 800, and 1,600, sensit
 .
 ├── README.md                 English overview
 ├── README.zh-CN.md           Chinese overview
+├── LICENSE                   MIT License for original project content
 ├── requirements.txt          Python dependencies
 ├── problem/
 │   ├── problem-A.pdf         Original complete problem statement
