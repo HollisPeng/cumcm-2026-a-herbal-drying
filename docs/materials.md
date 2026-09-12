@@ -22,11 +22,13 @@ The numerical solver, plot script, input CSVs, completed workbooks, saved result
 
 Original attachment workbooks document data provenance; CSV transcriptions provide direct program inputs. Original blank templates document the specified output layout; completed workbooks contain the study's results. CSV outputs retain more precision than the reading workbooks. These formats are complementary, not redundant copies.
 
-The old submission-oriented README was replaced by the bilingual project documentation. The competition-only `format2026.doc` was omitted because it does not contribute to understanding or reproducing the study. The original staging directory was removed after retained files were copied and SHA-256 checked. No Git commit, push, remote repository creation, or publication was performed.
+The old submission-oriented README was replaced by the bilingual project documentation. The competition-only `format2026.doc` was omitted because it does not contribute to understanding or reproducing the study. The original staging directory was removed after retained files were copied and SHA-256 checked.
 
 ## 中文
 
 项目材料均来自原工作区的 `参考/` 文件夹。本次整理没有引入替代数据、新模型或新的数值成果。
+
+除 `problem/` 下所提供的第三方材料外，本仓库的原创内容采用根目录中的 [MIT 许可证](../LICENSE)授权。题目、附件和结果模板保留其原有权利状态，不在 MIT 许可证的重新授权范围内。
 
 | 原始材料 | 仓库位置 |
 | --- | --- |
@@ -44,4 +46,4 @@ The old submission-oriented README was replaced by the bilingual project documen
 
 原始附件工作簿保留数据来源，CSV 转录便于程序直接读取；原始空白模板记录题目指定格式，成品工作簿承载研究结果；输出 CSV 比阅读用工作簿保留更高精度。它们用途互补，并非无意义的重复副本。
 
-原提交导向 README 已替换为双语项目文档。仅服务于竞赛提交格式的 `format2026.doc` 不参与成果理解或复现，未予保留。保留材料完成复制及 SHA-256 校验后，原始暂存目录已清除。本次未执行 Git 提交、推送、创建远程仓库或发布。
+原提交导向 README 已替换为双语项目文档。仅服务于竞赛提交格式的 `format2026.doc` 不参与成果理解或复现，未予保留。保留材料完成复制及 SHA-256 校验后，原始暂存目录已清除。

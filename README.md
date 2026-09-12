@@ -135,6 +135,6 @@ The model assumes radial symmetry, an effective moisture boundary condition, and
 
 ## Attribution and reuse
 
-The problem statement, input attachments, and output templates originate from the supplied 2026 CUMCM Problem A materials. They remain distinct from the author's study; their inclusion does not imply contest-organizer affiliation or endorsement. See [material notes](docs/materials.md).
+Except for the third-party materials under `problem/`, the original content of this repository is licensed under the [MIT License](LICENSE).
 
-No license has been selected for this repository. Public availability alone does not grant an open-source license, and the third-party problem materials retain their original rights status.
+The problem statement, input attachments, and output templates originate from the supplied 2026 CUMCM Problem A materials. They remain subject to the rights of their respective owners and are not relicensed under MIT. Their inclusion does not imply contest-organizer affiliation or endorsement. See [material notes](docs/materials.md).
