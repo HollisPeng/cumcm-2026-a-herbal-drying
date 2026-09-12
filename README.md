@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A personal study of heat and moisture transport in cylindrical medicinal herbs, based on **Problem A of the 2026 China Undergraduate Mathematical Contest in Modeling (CUMCM)**. This repository brings together the completed paper, source code, supplied data, numerical results, and figures.
 
 **The author completed this study out of personal interest, did not participate in the 2026 competition, and this project is not an official competition submission.** The project was completed with assistance from **GPT-5.6 Sol** and **GPT-6 Astra**.
